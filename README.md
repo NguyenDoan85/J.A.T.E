@@ -26,7 +26,6 @@
 - [Description](#description-🔍)
 - [User Story](#user-story-💡)
 - [Acceptance Criteria](#acceptance-criteria-🎯)
-- [Video Link](#video-link-🎞️)
 - [Installation](#installation-💾)
 - [Technologies](#technologies-🔧)
 - [Usage](#usage-💻)
@@ -73,9 +72,6 @@
 - THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 - WHEN I deploy to Heroku
 - THEN I should have proper build scripts for a webpack application
-
-## Video Link 🎞️
-![Video Link]()
 
 ## Installation 💾
 - Clone the repo and use command `npm install` to install all require packages.
